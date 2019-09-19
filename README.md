@@ -4,6 +4,8 @@
 Class Project  for Machine Learning for Social Sciences 
 
 
+#### Result Scores:
+
 | Model                 |Train CV Score (AUC) |Test Score (AUC)|
 | --------------------- |:-------------------:| --------------:|
 | LogisticRegression(l2)| 0.94                | 0.92           |
