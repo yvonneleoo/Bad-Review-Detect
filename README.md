@@ -1,4 +1,4 @@
-# Bad--review--Detect
+# Bad--Review--Detect
 
 
 Class Project  for Machine Learning for Social Sciences 
