@@ -3,6 +3,7 @@
 
 Class Project  for Machine Learning for Social Sciences 
 
+[Notebook](https://nbviewer.jupyter.org/github/yvonneleoo/Bad--Review--Detect/blob/master/Bad%20Review%20Detect.ipynb)
 
 #### Result Scores:
 
